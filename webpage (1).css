@@ -1,0 +1,75 @@
+#about{background: #292929;
+    border-radius: 25px;;
+    padding: 15px;
+    width: 500px;
+    height: 115px;
+    opacity: 0.5;
+}
+#Passion{background: #292929;
+    border-radius: 25px;;
+    padding: 10px;
+    width: 500px;
+    height: 105px;
+    opacity: 0.5;
+}
+#contact{background:#292929;
+    border-radius: 25px;;
+    padding: 10px;
+    width: 500px;
+    height: 95px;
+    opacity: 0.5;
+}
+#minato{
+    position: absolute;
+    z-index: -1;
+    right: 50px;
+    top: 85px;
+    opacity: 0.9;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(./Images/Uchiha-Itachi-Naruto-Shippuuden-uchiha-clan-anime-boys-anime-naruto-anime-2180569-wallhere.com.jpg);background-position: center;background-size: cover;
+}
+
+header {
+    background-color: #000000;
+    color: rgb(0, 0, 0);
+    padding: 10px 0;
+    text-align: end;
+}
+
+header ul {
+    list-style: none;
+    padding: 0;
+}
+
+header ul li {
+    display: inline;
+    margin: 0 20px;
+}
+nav a:hover{
+    background-color: #ff0000;
+    border-radius: 25px;
+}
+header a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 10px 20px;
+}
+
+section {
+    padding: 45px;
+}
+
+section h2 {
+    font-size: 30px;
+}
+
+footer {
+    background-color: #4e4e4e;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+}
